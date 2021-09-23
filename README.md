@@ -1,6 +1,11 @@
 - 👋 Profil de @Theaaux
+
+- 🧑‍🔧 16yo , France
+
 - 🍋 Fondateur de LemonRP
+
 - 💻 Apprends le lua/C/js/html
+
 - 📫 Theaux#0667
 
 <!---
