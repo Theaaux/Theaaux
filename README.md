@@ -1,4 +1,4 @@
-- 👋 ➜ 17yo - France
+
 - 🌙 ➜ Developer for **Lunar RôlePlay** 
 - 🍋 ➜ Owner of **LemonRP**
 - 📥 ➜ Contact : **Theaux#0667**
