@@ -1,7 +1,7 @@
 
-- 🌙 ➜ Developer for **Lunar RôlePlay** 
+- 🌙 ➜ Owner of **Lunar Development**
 - 🍋 ➜ Owner of **LemonRP**
-- 📥 ➜ Contact : **Theaux#1337**
+- 📥 ➜ Contact : **theaux#1337**
 
 <!---
 Theaaux/Theaaux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
